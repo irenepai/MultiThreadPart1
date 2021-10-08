@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ThreadPart7\ThreadPart7\bin\Debug\ThreadPart7.exe.config
+C:\Users\user\source\repos\ThreadPart7\ThreadPart7\bin\Debug\ThreadPart7.exe
+C:\Users\user\source\repos\ThreadPart7\ThreadPart7\bin\Debug\ThreadPart7.pdb
+C:\Users\user\source\repos\ThreadPart7\ThreadPart7\obj\Debug\ThreadPart7.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ThreadPart7\ThreadPart7\obj\Debug\ThreadPart7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThreadPart7\ThreadPart7\obj\Debug\ThreadPart7.exe
+C:\Users\user\source\repos\ThreadPart7\ThreadPart7\obj\Debug\ThreadPart7.pdb

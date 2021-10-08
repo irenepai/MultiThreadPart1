@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ThreadPart6\ThreadPart6\bin\Debug\ThreadPart6.exe.config
+C:\Users\user\source\repos\ThreadPart6\ThreadPart6\bin\Debug\ThreadPart6.exe
+C:\Users\user\source\repos\ThreadPart6\ThreadPart6\bin\Debug\ThreadPart6.pdb
+C:\Users\user\source\repos\ThreadPart6\ThreadPart6\obj\Debug\ThreadPart6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThreadPart6\ThreadPart6\obj\Debug\ThreadPart6.exe
+C:\Users\user\source\repos\ThreadPart6\ThreadPart6\obj\Debug\ThreadPart6.pdb
+C:\Users\user\source\repos\ThreadPart6\ThreadPart6\obj\Debug\ThreadPart6.csprojAssemblyReference.cache
